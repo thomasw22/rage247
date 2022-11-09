@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rage247.eu/sitemap.xml
+Sitemap: http://www.rage247.eu/sitemap.xml

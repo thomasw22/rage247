@@ -1,0 +1,36 @@
+GDPR
+Below is listed all information we store and for what purpose(s). All information is saved on
+ our servers. This is done so we can track orders, know where to send them and to contact our 
+ customers. All information is saved for a year. All cusotmers are able to change any piece 
+ of information about themselves at any time by simply emailing us. Users can and may change 
+ any address information, though products that have been sent to a different address will 
+ still be delivered to the old address. Users can also ask us to delete all information at 
+ any time. We will delete evrything. However, we will not be able to contact that user so if 
+ there are any open orders, they may not be delivered since we have no address information 
+ enymore at that time and any contact notifying the user that their product(s) cannot be 
+ delivered cannot be sent to them since we have no contact information anymore. We do not 
+ sell any customer information to third-party services.
+Summary of saved information:
+
+Orders:
+-All entered personal information (purpose: see users)
+-Address belonging to the order (purpose: sending the product(s) to the right address)
+-Date and time of the order (purpose: to see when an order has been placed)
+-Date and time of completion (purpose: so users can see when we have completed their order and to calculate the average time between submitting an order and completing it)
+-Address of the order (purpose: See addresses)
+-total cost of the order (purpose: for accounting purposes)
+-the products (purpose: to see which product(s) has/have been ordered)
+-Users:
+-First name (purpose: to correctly address someone)
+-Last name (purpose: see first name)
+-E-mail (purpose: to contact someone)
+-Phone (optional, purpose: see E-mail)
+-Date and time of creating the user (purpose: for statistical analysis)
+-Addresses:
+-Country (purpose: to know where to send the package to)
+-State/province (purpose: see country)
+-City: (purpose: see country)
+-street: (purpose: see country)
+-housenumber (purpose: see country)
+-postal/zipcode (purpose: see country)
+We hope to have sufficiently inform you. If you encounter any problems concerning this statement, please contact us at contact@rage247.eu
